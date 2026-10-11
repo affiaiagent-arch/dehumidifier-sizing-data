@@ -1,0 +1,7 @@
+﻿condition_without_dehumidification,rh_range_pct,room_band,room_area_sq_ft,recommended_capacity_range_pints_per_day,suggested_size_pints_per_day,how_the_suggestion_is_derived
+"Slightly to Moderately Damp: space feels damp and has musty odor that may be intermittent.",50-75,Small-medium,under 2000,20-30,30,"top of the published range, following the published advice to oversize rather than undersize"
+"Very Damp: space consistently feels and smells damp. Damp spots appear on walls and floors.",75-90,Small-medium,under 2000,25-40,40,"top of the published range, following the published advice to oversize rather than undersize"
+"Wet: Walls or floor sweat, or seepage is present. High-load conditions such as laundry drying may be present.",90-100,Small-medium,under 2000,30-50,50,"top of the published range, following the published advice to oversize rather than undersize"
+"Slightly to Moderately Damp: space feels damp and has musty odor that may be intermittent.",50-75,Large,over 2000,30+,30,"published minimum, because the published cell is open-ended above 2000 sq ft"
+"Very Damp: space consistently feels and smells damp. Damp spots appear on walls and floors.",75-90,Large,over 2000,40+,40,"published minimum, because the published cell is open-ended above 2000 sq ft"
+"Wet: Walls or floor sweat, or seepage is present. High-load conditions such as laundry drying may be present.",90-100,Large,over 2000,50+,50,"published minimum, because the published cell is open-ended above 2000 sq ft"
